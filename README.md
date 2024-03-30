@@ -1,4 +1,4 @@
-![JavaScript || React || Node || MERN Stack](https://photos.app.goo.gl/wCShPodhT8Rcmd1UA)
+![JavaScript || React || Node || MERN Stack](https://drive.google.com/file/d/1u5chtUpmFkHp50swIaGe5COA7uHUhgkW/view?usp=drive_link)
 <h1 align="center">Assalamu-alikum 👋, I'm Md Rubel Mia</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
